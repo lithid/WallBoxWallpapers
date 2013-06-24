@@ -37,7 +37,7 @@ count=0
 for i in data['wallpapers']:
     count += 1
 
-data['wallpapers'].append({'id': count+1, 'name': name_in, 'author': author_in, 'description': desc_in, 'preview': preview, 'xlarge': xlarge, 'large': large, 'normal': normal, 'date': date_millis})
+data['wallpapers'].append({'id': count+1, 'name': name_in, 'author': author_in, 'description': desc_in, 'size_preview': preview, 'size_xlarge': xlarge, 'size_large': large, 'size_normal': normal, 'date': date_millis})
 output = json.dumps(data, sort_keys=True, indent=4, separators=(',', ': '))
 #print output
 f = open(outFile,'w')

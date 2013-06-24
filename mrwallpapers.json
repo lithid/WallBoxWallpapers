@@ -6,77 +6,77 @@
             "date": 1372085244175,
             "description": "Jellybean color wallpaper with a large X",
             "id": 1,
-            "large": "wallpapers/savoca/x/x-1440x1280.jpg",
+            "size_large": "wallpapers/savoca/x/x-1440x1280.jpg",
             "name": "X",
-            "normal": "wallpapers/savoca/x/x-960x800.jpg",
-            "preview": "wallpapers/savoca/x/x-200x200.jpg",
-            "xlarge": "wallpapers/savoca/x/x-2160x1920.jpg"
+            "size_normal": "wallpapers/savoca/x/x-960x800.jpg",
+            "size_preview": "wallpapers/savoca/x/x-200x200.jpg",
+            "size_xlarge": "wallpapers/savoca/x/x-2160x1920.jpg"
         },
         {
             "author": "Savoca",
             "date": 1372085455039,
             "description": "Green art with a Jellybean wallpaper feel",
             "id": 2,
-            "large": "wallpapers/savoca/greener/greener-1440x1280.jpg",
+            "size_large": "wallpapers/savoca/greener/greener-1440x1280.jpg",
             "name": "Greener",
-            "normal": "wallpapers/savoca/greener/greener-960x800.jpg",
-            "preview": "wallpapers/savoca/greener/greener-200x200.jpg",
-            "xlarge": "wallpapers/savoca/greener/greener-2160x1920.jpg"
+            "size_normal": "wallpapers/savoca/greener/greener-960x800.jpg",
+            "size_preview": "wallpapers/savoca/greener/greener-200x200.jpg",
+            "size_xlarge": "wallpapers/savoca/greener/greener-2160x1920.jpg"
         },
         {
             "author": "Savoca",
             "date": 1372085632881,
             "description": "Galaxy wallpaper dark purples and blue colors",
             "id": 3,
-            "large": "wallpapers/savoca/galaxy/galaxy-1440x1280.jpg",
+            "size_large": "wallpapers/savoca/galaxy/galaxy-1440x1280.jpg",
             "name": "Galaxy",
-            "normal": "wallpapers/savoca/galaxy/galaxy-960x800.jpg",
-            "preview": "wallpapers/savoca/galaxy/galaxy-200x200.jpg",
-            "xlarge": "wallpapers/savoca/galaxy/galaxy-2160x1920.jpg"
+            "size_normal": "wallpapers/savoca/galaxy/galaxy-960x800.jpg",
+            "size_preview": "wallpapers/savoca/galaxy/galaxy-200x200.jpg",
+            "size_xlarge": "wallpapers/savoca/galaxy/galaxy-2160x1920.jpg"
         },
         {
             "author": "Savoca",
             "date": 1372085739669,
             "description": "Red, white and black diamond like wallpaper",
             "id": 4,
-            "large": "wallpapers/savoca/diamondish/diamondish-1440x1280.jpg",
+            "size_large": "wallpapers/savoca/diamondish/diamondish-1440x1280.jpg",
             "name": "Diamondish",
-            "normal": "wallpapers/savoca/diamondish/diamondish-960x800.jpg",
-            "preview": "wallpapers/savoca/diamondish/diamondish-200x200.jpg",
-            "xlarge": "wallpapers/savoca/diamondish/diamondish-2160x1920.jpg"
+            "size_normal": "wallpapers/savoca/diamondish/diamondish-960x800.jpg",
+            "size_preview": "wallpapers/savoca/diamondish/diamondish-200x200.jpg",
+            "size_xlarge": "wallpapers/savoca/diamondish/diamondish-2160x1920.jpg"
         },
         {
             "author": "Savoca",
             "date": 1372085858642,
             "description": "White 3d diamonds with rare black line",
             "id": 5,
-            "large": "wallpapers/savoca/rare/rare-1440x1280.jpg",
+            "size_large": "wallpapers/savoca/rare/rare-1440x1280.jpg",
             "name": "Rare",
-            "normal": "wallpapers/savoca/rare/rare-960x800.jpg",
-            "preview": "wallpapers/savoca/rare/rare-200x200.jpg",
-            "xlarge": "wallpapers/savoca/rare/rare-2160x1920.jpg"
+            "size_normal": "wallpapers/savoca/rare/rare-960x800.jpg",
+            "size_preview": "wallpapers/savoca/rare/rare-200x200.jpg",
+            "size_xlarge": "wallpapers/savoca/rare/rare-2160x1920.jpg"
         },
         {
             "author": "Savoca",
             "date": 1372086912004,
             "description": "Dark beach with dark purple and blue skyline",
             "id": 6,
-            "large": "wallpapers/savoca/darkbeach/darkbeach-1440x1280.jpg",
+            "size_large": "wallpapers/savoca/darkbeach/darkbeach-1440x1280.jpg",
             "name": "Dark Beach",
-            "normal": "wallpapers/savoca/darkbeach/darkbeach-960x800.jpg",
-            "preview": "wallpapers/savoca/darkbeach/darkbeach-200x200.jpg",
-            "xlarge": "wallpapers/savoca/darkbeach/darkbeach-2160x1920.jpg"
+            "size_normal": "wallpapers/savoca/darkbeach/darkbeach-960x800.jpg",
+            "size_preview": "wallpapers/savoca/darkbeach/darkbeach-200x200.jpg",
+            "size_xlarge": "wallpapers/savoca/darkbeach/darkbeach-2160x1920.jpg"
         },
         {
             "author": "Savoca",
             "date": 1372087034224,
             "description": "Image processed of a city at dusk",
             "id": 7,
-            "large": "wallpapers/savoca/citydusk/citydusk-1440x1280.jpg",
+            "size_large": "wallpapers/savoca/citydusk/citydusk-1440x1280.jpg",
             "name": "City Dusk",
-            "normal": "wallpapers/savoca/citydusk/citydusk-960x800.jpg",
-            "preview": "wallpapers/savoca/citydusk/citydusk-200x200.jpg",
-            "xlarge": "wallpapers/savoca/citydusk/citydusk-2160x1920.jpg"
+            "size_normal": "wallpapers/savoca/citydusk/citydusk-960x800.jpg",
+            "size_preview": "wallpapers/savoca/citydusk/citydusk-200x200.jpg",
+            "size_xlarge": "wallpapers/savoca/citydusk/citydusk-2160x1920.jpg"
         }
     ]
 }
