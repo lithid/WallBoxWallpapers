@@ -6,7 +6,7 @@ import os
 import sys
 import imghdr
 
-if len(sys.argv) != 8:
+if len(sys.argv) != 9:
     print "Leaving need path to file as an argument!"
     exit(1)
 
@@ -17,9 +17,11 @@ name_in = sys.argv[3]
 xlarge = sys.argv[4]
 large = sys.argv[5]
 normal = sys.argv[6]
-preview = sys.argv[7]
+previewhd = sys.argv[7]
+print "%s" % previewhd
+preview = sys.argv[8]
 
-for i in range(4,7):
+for i in range(4,8):
     if not imghdr.what(sys.argv[i]):
         print "%s doesn't appear to be a picture, leaving" % i
         exit(2)
@@ -37,7 +39,7 @@ count=0
 for i in data['wallpapers']:
     count += 1
 
-data['wallpapers'].append({'id': count+1, 'name': name_in, 'author': author_in, 'description': desc_in, 'size_preview': preview, 'size_xlarge': xlarge, 'size_large': large, 'size_normal': normal, 'date': date_millis})
+data['wallpapers'].append({'id': count+1, 'name': name_in, 'author': author_in, 'description': desc_in, 'size_preview': preview, 'size_previewhd': previewhd, 'size_xlarge': xlarge, 'size_large': large, 'size_normal': normal, 'date': date_millis})
 output = json.dumps(data, sort_keys=True, indent=4, separators=(',', ': '))
 #print output
 f = open(outFile,'w')

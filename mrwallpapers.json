@@ -6,10 +6,11 @@
             "date": 1372085244175,
             "description": "Jellybean color wallpaper with a large X",
             "id": 1,
-            "size_large": "wallpapers/savoca/x/x-1440x1280.jpg",
             "name": "X",
+            "size_large": "wallpapers/savoca/x/x-1440x1280.jpg",
             "size_normal": "wallpapers/savoca/x/x-960x800.jpg",
             "size_preview": "wallpapers/savoca/x/x-200x200.jpg",
+            "size_previewhd": "wallpapers/savoca/x/x-500x500.jpg",
             "size_xlarge": "wallpapers/savoca/x/x-2160x1920.jpg"
         },
         {
@@ -17,10 +18,11 @@
             "date": 1372085455039,
             "description": "Green art with a Jellybean wallpaper feel",
             "id": 2,
-            "size_large": "wallpapers/savoca/greener/greener-1440x1280.jpg",
             "name": "Greener",
+            "size_large": "wallpapers/savoca/greener/greener-1440x1280.jpg",
             "size_normal": "wallpapers/savoca/greener/greener-960x800.jpg",
             "size_preview": "wallpapers/savoca/greener/greener-200x200.jpg",
+            "size_previewhd": "wallpapers/savoca/greener/greener-500x500.jpg",
             "size_xlarge": "wallpapers/savoca/greener/greener-2160x1920.jpg"
         },
         {
@@ -28,10 +30,11 @@
             "date": 1372085632881,
             "description": "Galaxy wallpaper dark purples and blue colors",
             "id": 3,
-            "size_large": "wallpapers/savoca/galaxy/galaxy-1440x1280.jpg",
             "name": "Galaxy",
+            "size_large": "wallpapers/savoca/galaxy/galaxy-1440x1280.jpg",
             "size_normal": "wallpapers/savoca/galaxy/galaxy-960x800.jpg",
             "size_preview": "wallpapers/savoca/galaxy/galaxy-200x200.jpg",
+            "size_previewhd": "wallpapers/savoca/galaxy/galaxy-500x500.jpg",
             "size_xlarge": "wallpapers/savoca/galaxy/galaxy-2160x1920.jpg"
         },
         {
@@ -39,10 +42,11 @@
             "date": 1372085739669,
             "description": "Red, white and black diamond like wallpaper",
             "id": 4,
-            "size_large": "wallpapers/savoca/diamondish/diamondish-1440x1280.jpg",
             "name": "Diamondish",
+            "size_large": "wallpapers/savoca/diamondish/diamondish-1440x1280.jpg",
             "size_normal": "wallpapers/savoca/diamondish/diamondish-960x800.jpg",
             "size_preview": "wallpapers/savoca/diamondish/diamondish-200x200.jpg",
+            "size_previewhd": "wallpapers/savoca/diamondish/diamondish-500x500.jpg",
             "size_xlarge": "wallpapers/savoca/diamondish/diamondish-2160x1920.jpg"
         },
         {
@@ -50,10 +54,11 @@
             "date": 1372085858642,
             "description": "White 3d diamonds with rare black line",
             "id": 5,
-            "size_large": "wallpapers/savoca/rare/rare-1440x1280.jpg",
             "name": "Rare",
+            "size_large": "wallpapers/savoca/rare/rare-1440x1280.jpg",
             "size_normal": "wallpapers/savoca/rare/rare-960x800.jpg",
             "size_preview": "wallpapers/savoca/rare/rare-200x200.jpg",
+            "size_previewhd": "wallpapers/savoca/rare/rare-500x500.jpg",
             "size_xlarge": "wallpapers/savoca/rare/rare-2160x1920.jpg"
         },
         {
@@ -61,10 +66,11 @@
             "date": 1372086912004,
             "description": "Dark beach with dark purple and blue skyline",
             "id": 6,
-            "size_large": "wallpapers/savoca/darkbeach/darkbeach-1440x1280.jpg",
             "name": "Dark Beach",
+            "size_large": "wallpapers/savoca/darkbeach/darkbeach-1440x1280.jpg",
             "size_normal": "wallpapers/savoca/darkbeach/darkbeach-960x800.jpg",
             "size_preview": "wallpapers/savoca/darkbeach/darkbeach-200x200.jpg",
+            "size_previewhd": "wallpapers/savoca/darkbeach/darkbeach-500x500.jpg",
             "size_xlarge": "wallpapers/savoca/darkbeach/darkbeach-2160x1920.jpg"
         },
         {
@@ -72,11 +78,48 @@
             "date": 1372087034224,
             "description": "Image processed of a city at dusk",
             "id": 7,
-            "size_large": "wallpapers/savoca/citydusk/citydusk-1440x1280.jpg",
             "name": "City Dusk",
+            "size_large": "wallpapers/savoca/citydusk/citydusk-1440x1280.jpg",
             "size_normal": "wallpapers/savoca/citydusk/citydusk-960x800.jpg",
             "size_preview": "wallpapers/savoca/citydusk/citydusk-200x200.jpg",
+            "size_previewhd": "wallpapers/savoca/citydusk/citydusk-500x500.jpg",
             "size_xlarge": "wallpapers/savoca/citydusk/citydusk-2160x1920.jpg"
+        },
+        {
+            "author": "Savoca",
+            "date": 1380894357544,
+            "description": "Light wallpaper with an orange box and shadow",
+            "id": 8,
+            "name": "Boxed",
+            "size_large": "wallpapers/savoca/boxed/boxed-1440x1280.jpg",
+            "size_normal": "wallpapers/savoca/boxed/boxed-960x800.jpg",
+            "size_preview": "wallpapers/savoca/boxed/boxed-200x200.jpg",
+            "size_previewhd": "wallpapers/savoca/boxed/boxed-500x500.jpg",
+            "size_xlarge": "wallpapers/savoca/boxed/boxed-2160x1920.jpg"
+        },
+        {
+            "author": "Savoca",
+            "date": 1380894402912,
+            "description": "Orange array of shapes, like nexus",
+            "id": 9,
+            "name": "Likewise",
+            "size_large": "wallpapers/savoca/likewise/likewise-1440x1280.jpg",
+            "size_normal": "wallpapers/savoca/likewise/likewise-960x800.jpg",
+            "size_preview": "wallpapers/savoca/likewise/likewise-200x200.jpg",
+            "size_previewhd": "wallpapers/savoca/likewise/likewise-500x500.jpg",
+            "size_xlarge": "wallpapers/savoca/likewise/likewise-2160x1920.jpg"
+        },
+        {
+            "author": "Savoca",
+            "date": 1380894487522,
+            "description": "Green globe on a dark background",
+            "id": 10,
+            "name": "Green Globe",
+            "size_large": "wallpapers/savoca/greenglobe/greenglobe-1440x1280.jpg",
+            "size_normal": "wallpapers/savoca/greenglobe/greenglobe-960x800.jpg",
+            "size_preview": "wallpapers/savoca/greenglobe/greenglobe-200x200.jpg",
+            "size_previewhd": "wallpapers/savoca/greenglobe/greenglobe-500x500.jpg",
+            "size_xlarge": "wallpapers/savoca/greenglobe/greenglobe-2160x1920.jpg"
         }
     ]
 }

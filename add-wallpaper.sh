@@ -31,7 +31,7 @@ if [ ! -d $com_path ]; then
     echo "Made directory $com_path"
 fi
 
-ar="2160x1920 1440x1280 960x800 200x200"
+ar="2160x1920 1440x1280 960x800 500x500 200x200"
 count=1
 for x in $ar; do
     filenamer=$com_path/$name-$x".$ext"
@@ -46,6 +46,8 @@ for x in $ar; do
 	    3)
 	        NORMAL="$filenamer";;
 	    4)
+	        PREVIEWHD="$filenamer";;
+	    5)
 	        PREVIEW="$filenamer";;
 	esac
 	let count=count+1
@@ -53,5 +55,5 @@ done
 
 echo "Completed $ar_txt convert"
 echo "Executing json building now..."
-python helper.py $json "$pre_author" "$pre_name" "$XLARGE" "$LARGE" "$NORMAL" "$PREVIEW"
+python helper.py $json "$pre_author" "$pre_name" "$XLARGE" "$LARGE" "$NORMAL" "$PREVIEWHD" "$PREVIEW"
 exit 0
